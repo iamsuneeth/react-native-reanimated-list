@@ -17,7 +17,7 @@ yarn add react-native-reanimated-list
 or if you use `npm`:
 
 ```sh
-npm install reanimated-bottom-sheet
+npm install react-native-reanimated-list
 ```
 
 ## Usage
