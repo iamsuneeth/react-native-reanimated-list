@@ -1,0 +1,33 @@
+{
+  "name": "react-native-reanimated-list",
+  "version": "1.0.0-alpha1",
+  "description": "Animated FlatList implementation using react-native-reanimated",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "author": "iamsuneeth",
+  "license": "MIT",
+  "repository": "https://github.com/iamsuneeth/react-native-reanimated-list",
+  "private": false,
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-gesture-handler": "*",
+    "react-native-reanimated": "*"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "@types/react": "^16.9.17",
+    "@types/react-native": "^0.60.26",
+    "react": "^16.12.0",
+    "react-native": "^0.61.5",
+    "react-native-gesture-handler": "^1.5.2",
+    "react-native-reanimated": "^1.4.0",
+    "typescript": "^3.7.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
