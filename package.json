@@ -6,6 +6,12 @@
   "typings": "dist/index.d.ts",
   "author": "iamsuneeth",
   "license": "MIT",
+  "keywords": [
+    "react-native",
+    "list",
+    "reanimated",
+    "typescript"
+  ],
   "repository": "https://github.com/iamsuneeth/react-native-reanimated-list",
   "private": false,
   "peerDependencies": {
