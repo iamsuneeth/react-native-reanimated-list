@@ -1,6 +1,6 @@
 {
   "name": "react-native-reanimated-list",
-  "version": "1.0.0-alpha2",
+  "version": "1.0.0-alpha3",
   "description": "Animated FlatList implementation using react-native-reanimated",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
